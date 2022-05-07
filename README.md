@@ -1,7 +1,9 @@
 Clone repository
 
-cd client
+cd sage_client
 
-Run npm install
+install dependencies
+Run npm install or yarn install
 
+start development server
 run npm start
